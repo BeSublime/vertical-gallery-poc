@@ -1,0 +1,3 @@
+<template>
+  <Pdp />
+</template>
